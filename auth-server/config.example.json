@@ -1,0 +1,4 @@
+{
+    "Port": 8000,
+    "ClientID": "<Client ID for application created on google, must have http://localhost:[Port] in the allowed domains>"
+}

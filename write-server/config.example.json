@@ -1,0 +1,9 @@
+{
+    "DbServers": [
+        "localhost"
+    ],
+    "DbKeySpace": "urlshort",
+    "ServerID": "0",
+    "DbPersistInterval": 1,
+    "Port": 8000
+}

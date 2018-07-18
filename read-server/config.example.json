@@ -1,0 +1,7 @@
+{
+    "DbServers": [
+        "localhost"
+    ],
+    "DbKeySpace": "urlshort",
+    "Port": 8001
+}
